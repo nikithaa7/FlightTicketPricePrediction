@@ -1,7 +1,5 @@
 # Flight-Ticket-Price-Prediction
 
-## iNeuron.ai-Internship
-
 # Objective 🎯
 
 In this project, we are going to build a Python Flight Fare Prediction web, that returns the fare prediction for a given set of travel details, like: departure date, arrival date, departure city, arrival city, stoppages, and the airline carrier.
@@ -41,9 +39,7 @@ specific departure date, algorithms need to determine whether it is suitable to 
 ## 📝 Description
 - In this project we have used **RandomForestRegressor** for predicting the ticket price.
 
-## ⏳ Dataset
-- Download the dataset for custom training
-- [Repo link](https://github.com/varunsalunkhe/Flight-Ticket-Price-Prediction/blob/main/FlightFare_Dataset.xlsx)
+
 
 ## :desktop_computer:	Installation
 
